@@ -1,0 +1,30 @@
+/*
+Source: https://dribbble.com/shots/3333028-Cooking-App-Desktop-Version-Screen */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #565390;
+}
+
+.recipe {
+  max-width: 800px;
+  margin: 200px auto;
+  display: flex;
+}
+
+.recipe-image {
+  height: 400px;
+  width: 400px;
+  background-color: white;
+}
+
+.recipe-article {
+  width: 400px;
+  height: 400px;
+  background-color: #5151a7;
+}
